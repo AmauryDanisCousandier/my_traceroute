@@ -1,2 +1,2 @@
 # my_traceroute
-I try to code a packet tracer with cpp 
+I try to code a packet tracer in C 
